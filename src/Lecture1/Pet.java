@@ -62,5 +62,4 @@ public class Pet {
 
         //System.out.println("My pet's name is " + myPet.name + " and it is a " + myPet.type + " and it is " + myPet.age + " years old");
     }
-
 }
