@@ -27,10 +27,9 @@ public class Pet {
         this.name = name;
         // means go into this object and then from that object get the age
         this.age = age;
-        // ...
-        this.type = type;
+        // uses the setType method to set the type (--> Setter)
+        setType(type);
     }
-
 
     // no main in Pet !
     public static void main(String[] args) {
